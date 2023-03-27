@@ -5,8 +5,6 @@ export default function Data() {
         <div className="home_data">
             <h1 className="home_title">
                 O Nacélio
-
-                <img className="home_hand" src={svg} alt="Imagem do hand" />
             </h1>
 
             <h3 className="home_subtitle">Front-End developer</h3>
@@ -17,7 +15,7 @@ export default function Data() {
                 O que mais gosto de fazer para passar o tempo é degustar uma quente e boa xícara de café. 
             </p>
 
-            <a href="contact" className="button button--flex">
+            <a href="#contact" className="button button--flex">
                 Fale Olá! 
 
                 <svg
