@@ -4,7 +4,7 @@ import PortfolioItems from "./PortfolioItems";
 
 export default function Portfolios() {
 
-    const [item, setItem] = useState({ name: "all" })
+    const [item, setItem] = useState({ name: "Todos" })
     const [projects, setProjects] = useState([])
     const [active, setActive] = useState(0)
 
