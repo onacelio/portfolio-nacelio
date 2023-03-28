@@ -14,61 +14,71 @@ export const projectsData = [
         id: 1,
         image: Project1,
         title: "Contador de dias vivos",
-        category: "front"
+        category: "front",
+        link: "https://github.com/onacelio/contador-de-dias-vivos"
     }, 
     {
         id: 2,
         image: Project2,
         title: "Inventory MCPF",
-        category: "full"
+        category: "full",
+        link: "https://github.com/onacelio/inventory-mcpf"
     }, 
     {
         id: 3,
         image: Project3,
-        title: "POrtfolio",
-        category: "front"
+        title: "Portfolio",
+        category: "front",
+        link: "https://github.com/onacelio/portfolio-nacelio"
     }, 
     {
         id: 4,
         image: Project4,
         title: "Bot telegram",
-        category: "bot"
+        category: "bot",
+        link: "https://github.com/onacelio/work-software"
     }, 
     {
         id: 5,
         image: Project5,
         title: "ERETEC",
-        category: "full"
+        category: "full",
+        link: "https://github.com/onacelio/pagina-eretec"
     }, 
     {
         id: 6,
         image: Project6,
         title: "Costs",
-        category: "front"
+        category: "front",
+        link: "https://github.com/onacelio/costs"
     }, 
     {
         id: 7,
         image: Project7,
         title: "Habit Tracker",
-        category: "front"
+        category: "front",
+        link: "https://github.com/onacelio/nlw-setup-explorer"
     },
     {
         id: 8,
         image: Project8,
         title: "RocketPay",
-        category: "front"
+        category: "front",
+        link: "https://github.com/onacelio/explorer-lab-rocketpay"
     },
     {
         id: 9,
         image: Project9,
         title: "Prova POO-DW",
-        category: "front"
+        category: "front",
+        link: "https://github.com/onacelio/prova-poo-dw"
     }, 
     {
         id: 10,
         image: Project10,
         title: "Discord Informática",
-        category: "front"
+        category: "front",
+        link: "https://github.com/onacelio/discordInformatica"
     }
 ]
 
